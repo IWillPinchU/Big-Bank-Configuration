@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+  javaVersion: "21"
+loans:
+  message: "Welcome to loans related prod API's"
+  contactDetails:
+    name: "Sanskar Singhal - prod"
+    email: "pinchusinghal6@gmail.com"
+  OnCallSupport:
+    -(91)9999999999
