@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+  javaVersion: "21"
+cards:
+  message: "Welcome to cards related local API's"
+  contactDetails:
+    name: "Sanskar Singhal"
+    email: "pinchusinghal6@gmail.com"
+  OnCallSupport:
+    -(91)9999999999
