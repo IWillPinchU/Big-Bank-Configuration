@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to accounts related prod API's"
   contactDetails:
     name: "Sanskar Singhal - prod"
-    email: "pinchusinghal6@gmail.com"
+    email: "{cipher}fb1e995ecf2059aa78c965e6f19b30abdb64bf29d2db86eb66eddebc2609236f337c2188c801961f8c0fc59cffee6fad"
   OnCallSupport:
     -(91)9999999999
