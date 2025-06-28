@@ -7,3 +7,5 @@ eureka:
   client:
     fetchRegistry: false
     registerWithEureka: false
+    serviceUrl:Add commentMore actions
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
